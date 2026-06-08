@@ -1,5 +1,5 @@
 
-"<h1 align="center">Hi 👋, I'm Aarya Goriya</h1>
+<h1 align="center">Hi 👋, I'm Aarya Goriya</h1>
 <h3 align="center">Aarya Goriya is a skilled developer with expertise in HTML, CSS, JavaScript, Java, and Python. He excels in both front-end and back-end development, creating responsive websites and robust applications. Passionate about clean, efficient code, Aarya is always eager to learn and collaborate, bringing innovative solutions to the table.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryagoriya&label=Profile%20views&color=0e75b6&style=flat" alt="aaryagoriya" /> </p>
 - 🌱 I’m currently learning **Python, Java, JavaScript**
