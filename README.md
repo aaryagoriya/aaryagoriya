@@ -1,103 +1,130 @@
 <div align="center">
 
-# Aarya Goriya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B3A,50:6C63FF,100:FF6584&height=200&section=header&text=Aarya%20Goriya&fontSize=56&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer,%20Auckland,%20New%20Zealand&descAlignY=55&descSize=18" alt="Aarya Goriya banner"/>
 
-**Frontend Developer · Auckland, New Zealand**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1500&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+fast+frontend+experiences;React+-+JavaScript+-+Node.js+-+Python;Applied+IT+student+at+Whitecliffe+College%2C+NZ" alt="Typing SVG"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryagoriya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaryagoriya.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryagoriya@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aarya_goriya)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaryagoriya&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://linkedin.com/in/aaryagoriya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://aaryagoriya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:aaryagoriya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/aarya_goriya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=aaryagoriya&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
 I grew up in a small town in India asking a question nobody around me was asking: *why do some digital experiences make you feel something, and others just exist?*
 
 I didn't go to a bootcamp. I didn't have a mentor. I just started building things and refused to stop until they worked.
 
-In 2025 I moved to Auckland and enrolled in a **Bachelor of Applied IT at Whitecliffe College** — while working night audits at a hotel and making pizzas on weekends. Not glamorous. But somewhere between reconciling 3am financials and a Saturday dinner rush, I figured out something most people take years to learn: **showing up when it's inconvenient is the whole job.**
+In 2025 I moved to Auckland and enrolled in a **Bachelor of Applied IT at Whitecliffe College** — while working night audits at a hotel and making pizzas on weekends. Not glamorous. But somewhere between reconciling 3am financials and a Saturday dinner rush, I figured out something most people take years to learn:
+
+> **Showing up when it's inconvenient is the whole job.**
 
 ---
 
-## Featured Projects
+## 🌱 Currently
 
-| Project | Description | Tech |
-|---|---|---|
-| 🛡️ **PhotoForge** | Protected photographers from losing ownership of their work the moment they uploaded it | React, JavaScript |
-| 💳 **Quick Virtual Card** | Multi-role admin platform with multilingual support — because real users are never one-size-fits-all | React, NodeJS, MySQL |
-| 💇 **Salon Booking Platform** | Built during internship at InnoBrain Technologies for a real client, with automated WhatsApp booking confirmations | ReactJS, ViteJS, NodeJS, PHP |
-
-> *Every single one taught me the same thing — the best technology disappears. You don't notice it. You just feel like things worked out.*
-
-🔗 **[View all projects →](https://aaryagoriya.netlify.app/)**
-
----
-
-## What I'm Working On
-
-- 🌱 Deepening my skills in **React**, **Python**, **UI/UX Design**, and **AI/ML**
-- 🎓 **Bachelor of Applied IT** at Whitecliffe College, Auckland (2025–2028)
+- 🎓 Studying a **Bachelor of Applied IT** at Whitecliffe College, Auckland (2025 – 2028)
+- 📚 Planning a **Master's degree** after graduating
+- 🧠 Deepening my skills in **React**, **Python**, **UI/UX Design** and **AI/ML**
 - 🤝 Open to **internship opportunities** in frontend development
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛡️ PhotoForge**
+
+Protects photographers from losing ownership of their work the moment they upload it.
+
+`React` `JavaScript`
+
+</td>
+<td width="33%" valign="top">
+
+**💳 Quick Virtual Card**
+
+Multi-role admin platform with multilingual support — because real users are never one-size-fits-all.
+
+`React` `Node.js` `MySQL`
+
+</td>
+<td width="33%" valign="top">
+
+**💇 Salon Booking Platform**
+
+Built during my internship at InnoBrain Technologies for a real client, with automated WhatsApp booking confirmations.
+
+`React` `Vite` `Node.js` `PHP`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+💭 *Every single one taught me the same thing — the best technology disappears. You don't notice it. You just feel like things worked out.*
+
+**[View all projects](https://aaryagoriya.netlify.app/)**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend tech icons"/>
 
 **Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,python,java" alt="Backend tech icons"/>
 
 **Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aaryagoriya&show_icons=true&locale=en&theme=default&hide_border=true" alt="Aarya's GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryagoriya&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryagoriya&hide_border=true)
-
-</div>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
 
 ---
 
-## Experience Snapshot
+## 📊 GitHub Stats
 
-```
-Night Auditor · Soho Hotel Auckland         Nov 2025 – Present
-Frontend Developer Intern · InnoBrain       Jul 2023 – Aug 2023
-Web Content Management Intern · Infonaya   Sep 2022 – Sep 2022
-```
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryagoriya&show_icons=true&theme=tokyonight&hide_border=true" alt="Aarya's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryagoriya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=aaryagoriya&theme=dark" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+| Role | Organisation | Duration |
+|---|---|---|
+| Night Auditor | Soho Hotel, Auckland | Nov 2025 – Present |
+| Frontend Developer Intern | InnoBrain Technologies | Jul 2023 – Aug 2023 |
+| Web Content Management Intern | Infonaya | Sep 2022 |
 
 ---
 
@@ -109,5 +136,7 @@ Web Content Management Intern · Infonaya   Sep 2022 – Sep 2022
 *If that's the kind of person your team needs — let's talk.*
 
 [![Email Me](https://img.shields.io/badge/aaryagoriya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryagoriya@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,50:6C63FF,100:1A1B3A&height=120&section=footer" alt="footer wave"/>
 
 </div>
